@@ -1,2 +1,2 @@
 # 361-project
-portfolio project cs 361
+# this is a readme file for the 361 project
